@@ -16,7 +16,7 @@ Select the instrument using the dropdown menu on the left:
 
 Hover over a bar on the "Service/Cleaning" plot to see the details about the procedure:
 
-<img src="https://github.com/dev-ev/bokehQCDashboard/blob/main/bokehQC_screenshot_3.PNG" alt="drawing" width="500"/>
+<img src="https://github.com/dev-ev/bokehQCDashboard/blob/main/bokehQC_screenshot_3.PNG" alt="drawing" width="600"/>
 
 By default, the app displays the data for the whole time that is available in the database. Zoom in onto a plot to see a smaller region on both axes:
 
