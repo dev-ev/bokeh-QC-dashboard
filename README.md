@@ -11,7 +11,7 @@ The app consists of one long page and is based on bokeh library:
 
 Select the instrument using the dropdown menu on the left:
 
-<img src="https://github.com/dev-ev/bokehQCDashboard/blob/main/bokehQC_screenshot_2.PNG" alt="drawing" width="300"/>
+<img src="https://github.com/dev-ev/bokehQCDashboard/blob/main/bokehQC_screenshot_2.PNG" alt="drawing" width="200"/>
 
 
 Hover over a bar on the "Service/Cleaning" plot to see the details about the procedure:
