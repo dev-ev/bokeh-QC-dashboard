@@ -1,4 +1,4 @@
-# bokehQCDashboard
+# bokeh-QC-dashboard
 QC dashboard for proteomics using python and bokeh
 
 Created and tested by Egor Vorontsov.
