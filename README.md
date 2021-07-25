@@ -1,7 +1,5 @@
 # bokeh-QC-dashboard
-QC dashboard for proteomics using python and bokeh
-
-Created and tested by Egor Vorontsov.
+QC dashboard for proteomics using python and bokeh Created and tested by Egor Vorontsov with Orbitrap mass spectrometers in mind.
 
 The dashboard makes use of the key QC values that are stored in an SQLite database. During the development of the dashboard, the QC runs were injections of 50 ng of a HeLa cell tryptic digest, and the database is filled with the output values from Proteome Discoverer 2.4 searches that are processed via the "QC_Script_PD2.4" Python script.
 
